@@ -111,4 +111,4 @@ This will generate a `pipeline_evaluation_report.md` with detailed performance m
 ## Contributors
 *  **Parthiv Godrihal**
 *  **Nilay Jain**
-*  **Yuvan Jain**
+*  **Manan Bansal**
